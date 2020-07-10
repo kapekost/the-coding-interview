@@ -27,7 +27,7 @@ Currently, this is a collection of the following resources:
   * [Arden Dertat's posts](http://www.ardendertat.com/2012/01/09/programming-interview-questions/)
   * [jonnii/interview-questions](https://github.com/jonnii/interview-questions)
   * [ofirpicazo/interview-questions](https://github.com/ofirpicazo/interview-questions/tree/master/python)
-  * [Google Code Jam Problems](https://code.google.com/codejam/)
+  * [Google Code Jam Problems](https://codingcompetitions.withgoogle.com/codejam)
   * [Project Euler](https://projecteuler.net/)
 
 The awesome title image was [Designed by Freepik](http://www.freepik.com).
